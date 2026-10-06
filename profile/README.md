@@ -4,7 +4,7 @@
 
 It connects the language clinicians use at the point of care to reference terminologies such as SNOMED CT, ICD-10, ICD-11, RxNorm, ATC, LOINC, CVX and OMOP.
 
-- **Documentation:** [CIEL Terminology Wiki](https://github.com/CIEL-Terminology/ciel.github/wiki)
+- **Documentation:** [CIEL Terminology Wiki](https://github.com/CIEL-Terminology/readme/wiki)
 - **Browse the terminology:** [app.v3.openconceptlab.org](https://app.v3.openconceptlab.org/#/orgs/CIEL/)
 - **Use CIEL in OpenMRS:** [Using OCL for OpenMRS concept dictionary management](https://openconceptlab.org/blog/using-ocl-for-openmrs-concept-dictionary-management)
 - **Use CIEL for mapping:** [map.openconceptlab.org](https://map.openconceptlab.org)
