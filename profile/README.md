@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CIEL-Terminology/readme/main/assets/banner.webp" alt="CIEL: a clinical interface terminology between the clinician's mind and reference terminologies such as SNOMED CT, RxNorm and LOINC" width="100%">
+</p>
+
 # Columbia International eHealth Laboratory (CIEL)
 
 **CIEL Terminology** is an open source, standardized clinical interface terminology used particularly by low- and middle-income countries (LMICs) to capture, map, and analyze health information.
