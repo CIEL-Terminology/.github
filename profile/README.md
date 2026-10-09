@@ -8,6 +8,8 @@
 
 It connects the language clinicians use at the point of care to reference terminologies such as SNOMED CT, ICD-10, ICD-11, RxNorm, ATC, LOINC, CVX and OMOP.
 
+![concepts](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fconcepts) ![mappings](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fmappings) ![locales](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Flocales) ![locales-full](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Flocales-full) ![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fversion) ![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fupdated)
+
 - **Documentation:** [CIEL Terminology Wiki](https://github.com/CIEL-Terminology/readme/wiki)
 - **Browse the terminology:** [app.v3.openconceptlab.org](https://app.v3.openconceptlab.org/#/orgs/CIEL/)
 - **Use CIEL in OpenMRS:** [Using OCL for OpenMRS concept dictionary management](https://openconceptlab.org/blog/using-ocl-for-openmrs-concept-dictionary-management)
