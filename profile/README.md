@@ -18,3 +18,7 @@ It connects the language clinicians use at the point of care to reference termin
 - **Global Goods Guidebook:** [CIEL](https://www.globalgoodsguidebook.org/global-goods/ciel)
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+<a href="https://github.com/CIEL-Terminology/readme/wiki">
+  <img src="https://raw.githubusercontent.com/CIEL-Terminology/readme/main/assets/wiki-footer.webp" alt="CIEL Wiki" width="100%">
+</a>
